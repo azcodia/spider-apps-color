@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}

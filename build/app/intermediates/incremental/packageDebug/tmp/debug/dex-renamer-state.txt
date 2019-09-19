@@ -1,0 +1,4 @@
+#Thu Sep 19 19:00:38 WIB 2019
+base.0=/home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

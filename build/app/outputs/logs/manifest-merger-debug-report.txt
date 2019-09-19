@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:sqflite] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-20:12
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] /home/cran/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.2.aar/a3606714d3138367679ac52b6f005afd/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:9:5-64
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:9:22-62
+application
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-18:19
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-18:19
+	android:label
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.abc.painting.MainActivity
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/flutter_webview_plugin/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] /home/cran/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.2.aar/a3606714d3138367679ac52b6f005afd/AndroidManifest.xml:8:5-10:41
+MERGED from [com.dlazaro66.qrcodereaderview:qrcodereaderview:2.0.2] /home/cran/.gradle/caches/transforms-1/files-1.1/qrcodereaderview-2.0.2.aar/a3606714d3138367679ac52b6f005afd/AndroidManifest.xml:8:5-10:41
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-74
+activity#com.matheusvillela.flutter.plugins.qrcodereader.QRScanActivity
+ADDED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-17:63
+	android:configChanges
+		ADDED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-96
+	android:theme
+		ADDED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-60
+	android:name
+		ADDED from [:qrcode_reader] /home/cran/Documents/PROJEK IQBAL/Flutter/ABCA APPS/MAINTENANCE/ABCA-MOBILE-APPS/build/qrcode_reader/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-90
